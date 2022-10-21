@@ -92,6 +92,13 @@ hr.separator {
   padding-bottom: 22px;
   font-size: 26px;
 }
+.text-clr{
+  color: #111;
+ font-weight: 600;
+}
+.text-clr:hover{ 
+  color: #111;
+}
 
 /*** Light Body ***/
 
@@ -604,6 +611,7 @@ body.light hr.separator {
   line-height: 35px;
 }
 
+
 /*** About ***/
 
 .about .main-content {
@@ -623,6 +631,7 @@ body.light hr.separator {
 
 .about .about-list .value {
   font-weight: 600;
+  font-size: 14px;
 }
 
 /* Box Stats */
